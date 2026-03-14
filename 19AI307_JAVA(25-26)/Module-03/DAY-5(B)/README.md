@@ -28,8 +28,8 @@ To write a Java program that checks whether a given number is prime by using the
  ```
 /*
 Program to implement a InnerClass using Java
-Developed by: DARSHINI B
-RegisterNumber: 212224230051
+Developed by: GOLLA MOULIDHAR
+RegisterNumber: 212223240042
 */
 ```
 
