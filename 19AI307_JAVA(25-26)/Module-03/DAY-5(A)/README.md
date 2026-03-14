@@ -1,5 +1,4 @@
 # Ex.No:3(E) ENUM
-
 ## QUESTION:
 Write a Java program to define an enum named GameLevel with three constants: EASY, MEDIUM, and HARD.
 
