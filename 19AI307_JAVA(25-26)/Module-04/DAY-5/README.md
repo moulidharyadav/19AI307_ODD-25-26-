@@ -26,8 +26,8 @@ Implement the Mediator pattern using a ChatRoom class to manage communication be
  ```
 /*
 Program to implement a  Pattern using Java
-Developed by: DARSHINI B
-RegisterNumber: 212224230051
+Developed by: GOLLA MOULIDHAR
+RegisterNumber: 212223240042
 */
 ```
 
