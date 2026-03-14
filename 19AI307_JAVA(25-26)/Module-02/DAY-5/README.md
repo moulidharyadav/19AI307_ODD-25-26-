@@ -32,8 +32,8 @@ To create an Employee class where the display() method returns the current objec
  ```
 /*
 Program to implement a Access Modifiers using Java
-Developed by: DARSHINI B
-RegisterNumber: 212224230051
+Developed by: GOLLA MOULIDHAR
+RegisterNumber: 212223240042
 */
 ```
 
